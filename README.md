@@ -37,5 +37,5 @@ Welcome to the Sweet Delights Cake Shop, where a world of delectable desserts aw
 
 ## Contact
 
+* **Email**: [@peevee](muhammedshamalpv@gmail.com)
 Thank you for visiting Sweet Delights Cake Shop, where we turn your dessert dreams into sweet realities!
-
