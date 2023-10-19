@@ -20,7 +20,7 @@ Welcome to the Sweet Delights Cake Shop, where a world of delectable desserts aw
 
 ## Getting Started
 
-1. Visit the [Sweet Delights Cake Shop](https://www.sweetdelights.com) website.
+1. Visit the [Sweet Delights Cake Shop]([https://www.sweetdelights.com](https://golden-cassata-51cd19.netlify.app/)) website.
 
 2. Browse through our delectable menu and decide on your treats of choice.
 
